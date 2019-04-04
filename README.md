@@ -3,6 +3,8 @@
 **Project Link**:
 http://rpubs.com/akshaykher/Revenue-Insurance-Prediction-using-Census-Data
 
+***
+
 **Problem Description**
 
 A financial institution wants to analyze the demographic information of the US population to predict:
